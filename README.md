@@ -1,13 +1,14 @@
-# Trie Impl
+# trie-impl
 
-Pure Python Trie with prefix search and autocomplete.
+Trie (prefix tree) with autocomplete
 
 ## Usage
 
 ```bash
-python3 trie_impl.py
+python3 trie_impl.py --help
 ```
 
-## License
+## Features
 
-MIT
+- Zero dependencies (Python 3.8+)
+- Single file implementation
